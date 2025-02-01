@@ -6,3 +6,4 @@ Arrows - Move<br>
 A - Jump<b>
 <br><br>
 
+![print-craziest](https://github.com/user-attachments/assets/2c244a2b-cf29-4e8d-849b-8ac239c88a10)
